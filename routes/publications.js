@@ -4,7 +4,7 @@ import {
   getPublications,
   getPublication,
   createPublication,
-} from "../controllers/Publications.js";
+} from "../controllers/publications.js";
 
 const router = express.Router();
 
